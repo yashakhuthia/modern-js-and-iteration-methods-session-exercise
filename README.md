@@ -1,5 +1,3 @@
-[<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
-
 # Modern JS and Iteration Methods: Lab
 
 You have approximately **20 minutes** to complete this lab.
